@@ -106,4 +106,4 @@ stated here with a new date.
 
 ## Contact
 
-Questions about this policy: magublafix+deadspeak@gmail.com
+Questions about this policy: deadspeaksowl@gmail.com

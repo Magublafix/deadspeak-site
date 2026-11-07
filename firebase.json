@@ -1,0 +1,8 @@
+{
+  "hosting": {
+    "site": "deadspeak",
+    "public": ".",
+    "cleanUrls": false,
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**", "README.md", "privacy-policy.md"]
+  }
+}

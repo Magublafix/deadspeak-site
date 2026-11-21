@@ -1,6 +1,6 @@
 # Deadspeak Privacy Policy
 
-Last updated: 2026-11-03
+Last updated: 2026-11-21
 
 Deadspeak is a language-learning app for reading dead languages (currently Latin, with
 Ancient Greek as a preview), published by Magublafix Creations.
@@ -83,6 +83,13 @@ privacy policy. We do not receive personal data from Google through this.
 
 Deadspeak is not directed at children under 13 and does not knowingly collect
 information from anyone.
+
+## AI-generated content
+
+All content in Deadspeak, including the words, sentences, stories, translations and
+explanations, as well as the pronunciation clips and illustrations described below, was
+created by AI. No human expert has reviewed it, so it may contain mistakes. It is all
+bundled in the app; nothing is generated on your device.
 
 ## Acknowledgements
 
